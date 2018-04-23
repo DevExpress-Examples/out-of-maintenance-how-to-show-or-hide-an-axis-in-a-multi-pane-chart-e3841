@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SilverlightApplication1", "SilverlightApplication1\SilverlightApplication1.vbproj", "{13D9442C-C01E-42AA-909F-5DDC4EAE1021}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SilverlightApplication1.Web", "SilverlightApplication1.Web\SilverlightApplication1.Web.vbproj", "{6F149CA8-D419-4DD9-AB3D-19D2C8DA6C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D9442C-C01E-42AA-909F-5DDC4EAE1021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D9442C-C01E-42AA-909F-5DDC4EAE1021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D9442C-C01E-42AA-909F-5DDC4EAE1021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D9442C-C01E-42AA-909F-5DDC4EAE1021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F149CA8-D419-4DD9-AB3D-19D2C8DA6C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F149CA8-D419-4DD9-AB3D-19D2C8DA6C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F149CA8-D419-4DD9-AB3D-19D2C8DA6C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F149CA8-D419-4DD9-AB3D-19D2C8DA6C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
