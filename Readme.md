@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
 <!-- default file list end -->
 # How to show or hide an axis in a multi-pane chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3841)**
+<!-- run online end -->
 
 
 <p>The following sample demonstrates how to show (hide) an axis for a particular pane of the <a href="http://help.devexpress.com/#Silverlight/clsDevExpressXpfChartsXYDiagram2Dtopic"><u>XYDiagram2D</u></a> object.</p><br />
